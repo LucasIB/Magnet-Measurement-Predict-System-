@@ -1,0 +1,1 @@
+C:\Python34\Lib\site-packages\PyQt4\pyuic4 -o page_plot.py page_plot.ui
